@@ -46,7 +46,7 @@ Maximum promotions (93%) are made from the Full Time type.
   
   The maximum promotions with 4/5 rating is from the Operations and Sales & Marketing department.
 
-    ### [5] Turnover Employee Analysis
+### [5] Turnover Employee Analysis
 
 The Turnover count of employee is 47.
 
